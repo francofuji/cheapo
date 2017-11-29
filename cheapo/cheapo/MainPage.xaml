@@ -5,9 +5,8 @@
              x:Class="cheapo.MainPage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Lista de Compras"></Button>
+            <Button Text="Ingreso de Productos"></Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
